@@ -10,4 +10,4 @@ vpdb.go is the main go script that runs the http server.
 ### I used vpdb2.go for testing changes. 
 vpdb.sh is a simple shell script that runs the go script via "go run" to run it in the background.
 
-### contact mm343g@yp.com
+### contact magaling.markizm@gmail.com 
